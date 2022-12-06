@@ -1,0 +1,14 @@
+- To Start Git
+git init
+
+- SET USERNAME
+git config user.name davowork
+
+- SET EMAIL
+git config user.name "email"
+
+- LINK GITHUB REPOSITORY
+git remote add origin "https://github.com/davoWork/test.git"
+
+
+
