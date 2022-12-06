@@ -10,5 +10,21 @@ git config user.name "email"
 - LINK GITHUB REPOSITORY
 git remote add origin "https://github.com/davoWork/test.git"
 
+- VIEW ALL FILE THAT HAVE ACCESS
+git status
+
+- ADD FILE 
+git add file
+
+
+- git commit -m "Commit 1"
+
+-git push -u origin master
+
+- git clone
+
+-  git pull origin master
+
+
 
 
